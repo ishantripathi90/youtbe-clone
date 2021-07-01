@@ -2,7 +2,7 @@
 
 Youtube clone using PERN stack (Postgres, Express, React, Node). 
 
-This is the frontend repository, built with React + Redux. If you are looking for the backend repository, [click here](https://github.com/manikandanraji/youtubeclone-backend)
+This is the frontend repository, built with React + Redux. If you are looking for the backend repository, 
 
 Check out the [deployed site](https://utubeclone.netlify.app/)
 
